@@ -27,9 +27,10 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "next": "14.0.3",
-    "react": "^18",
+    "react": ">=16",
     "react-dom": "^18",
-    "tailwind-merge": "^2.0.0"
+    "tailwind-merge": "^2.0.0",
+    "yarn": "^1.22.21"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.4",
